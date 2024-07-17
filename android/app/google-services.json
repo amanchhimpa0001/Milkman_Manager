@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670352973690",
+    "project_id": "milkmanmanager",
+    "storage_bucket": "milkmanmanager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670352973690:android:0b16ab315601794696c0c3",
+        "android_client_info": {
+          "package_name": "com.example.milkman_manager_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm9ahA8axYv5ehTrpfsPMBSYKmatqOYa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
